@@ -1,3 +1,10 @@
+```
+git clone git@github.com:darklightblue/create-react-sass-router-boilerplate.git {folder name}
+```
+
+...start coding
+
+
 Pretty much everything in [Create React App](https://github.com/facebook/create-react-app).
 
 I added [classnames](https://github.com/JedWatson/classnames) as it is quite useful when working with css modules.
